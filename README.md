@@ -1,6 +1,6 @@
 # terminal_command
 
-memorry laeks 확인\n
+#### memorry laeks 확인
 1번 터미널
 	gcc -g 옵션으로 컴파일
 	lldb (파일이름) 으로 lldb 실행
