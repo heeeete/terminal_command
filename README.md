@@ -8,3 +8,4 @@
 	r 실행
 # 2번 터미널
 	while true; do leaks (프로세스 넘버); sleep 0.5; done
+	0.5초 간격으로 메모리 누수를 확인할수 있음
