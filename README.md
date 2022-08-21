@@ -1,7 +1,7 @@
 # terminal_command
 
-#### memorry laeks 확인
-1번 터미널
+### memorry laeks 확인
+# 1번 터미널
 	gcc -g 옵션으로 컴파일
 	lldb (파일이름) 으로 lldb 실행
 	b main 시작지점으로 중단점 설정
