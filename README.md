@@ -1,4 +1,4 @@
-# memorry laeks 확인
+# memorry leaks 확인
 
 # 1번 터미널
 	gcc -g 옵션으로 컴파일
